@@ -1,5 +1,3 @@
-# Discord Music Bot 🎵
-
 <p align="center">
 </p>
 
