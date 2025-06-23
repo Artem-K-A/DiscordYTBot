@@ -1,7 +1,6 @@
 # Discord Music Bot 🎵
 
 <p align="center">
-  <img src="https://i.imgur.com/audio_bot_preview.png" alt="Discord Music Bot Preview" width="500">
 </p>
 
 <h1 align="center">Discord Music Bot</h1>
